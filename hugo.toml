@@ -1,0 +1,13 @@
+baseURL = 'https://example.org/'
+languageCode = 'de-DE'
+title = 'Matthias Matthies'
+theme = "hyde"
+[Menus]
+  main = [
+      {Name = "Github", URL = "https://github.com/matthias-matthies/"},
+      {Name = "LinkedIn", URL = "https://www.linkedin.com/in/matthias-matthies/"}
+  ]
+
+[params]
+  description = "Informatikstudent mit Interesse an Softwarearchitektur, Informationssicherheit und IoT."
+  themeColor = "theme-base-0d"
