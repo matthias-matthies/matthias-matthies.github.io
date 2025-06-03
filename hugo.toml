@@ -11,3 +11,7 @@ theme = "hyde"
 [params]
   description = "Informatikstudent mit Interesse an Softwarearchitektur, Informationssicherheit und IoT."
   themeColor = "theme-base-0d"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
