@@ -2,11 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Matthias Matthies</title>
-    <link>https://example.org/posts/</link>
+    <link>http://localhost:1313/posts/</link>
     <description>Recent content in Posts on Matthias Matthies</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <lastBuildDate></lastBuildDate>
-    <atom:link href="https://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jun 2025 20:41:32 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>println!(&#34;Hello World!&#34;) oder so</title>
+      <link>http://localhost:1313/posts/introduction/</link>
+      <pubDate>Wed, 04 Jun 2025 20:41:32 +0200</pubDate>
+      <guid>http://localhost:1313/posts/introduction/</guid>
+      <description>&lt;h2 id=&#34;moin&#34;&gt;Moin&lt;/h2&gt;&#xA;&lt;p&gt;So begrüßen wir uns hier in Norddeutschland zu jeder Tageszeit. Ich nutze fast ausschließlich Moin - es reduziert jeglichen mental load, die richtige Begrüßung zu wählen.&lt;/p&gt;&#xA;&lt;p&gt;Jetzt fragst du dich sicherlich &amp;ldquo;Moin. Aber was ist das hier?&amp;rdquo; Nun, ich bin Matthias und freue mich, dich hier begrüßen zu dürfen. Aktuell studiere ich Informatik im 6. Bachelorsemester - actually schreibe ich gerade meine Bachelorarbeit (juhu). Mit diesem Blog möchte ich meine Erfahrungen teilen. Erfahrungen aus dem Informatikstudium. Dinge, die mich bewegen. Dinge, die mich nerven. Projekte, an denen ich arbeite. Projekte, die ich wieder verworfen habe. Im Grunde soll dieser Blog eine Art Logdatei meiner persönlichen und fachlichen Entwicklung sein.&lt;/p&gt;</description>
+    </item>
   </channel>
 </rss>

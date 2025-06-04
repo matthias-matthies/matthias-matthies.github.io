@@ -2,10 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Matthias Matthies</title>
-    <link>https://example.org/categories/</link>
+    <link>http://localhost:1313/categories/</link>
     <description>Recent content in Categories on Matthias Matthies</description>
     <generator>Hugo</generator>
     <language>de-DE</language>
-    <atom:link href="https://example.org/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 04 Jun 2025 20:41:32 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Persönliche Entwicklung</title>
+      <link>http://localhost:1313/categories/pers%C3%B6nliche-entwicklung/</link>
+      <pubDate>Wed, 04 Jun 2025 20:41:32 +0200</pubDate>
+      <guid>http://localhost:1313/categories/pers%C3%B6nliche-entwicklung/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Technologie</title>
+      <link>http://localhost:1313/categories/technologie/</link>
+      <pubDate>Wed, 04 Jun 2025 20:41:32 +0200</pubDate>
+      <guid>http://localhost:1313/categories/technologie/</guid>
+      <description></description>
+    </item>
   </channel>
 </rss>

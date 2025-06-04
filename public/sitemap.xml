@@ -2,14 +2,46 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://example.org/</loc>
-    <lastmod>2025-06-03T08:59:46+02:00</lastmod>
+    <loc>http://localhost:1313/tags/blog/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/posts/</loc>
-    <lastmod>2025-06-03T08:59:46+02:00</lastmod>
+    <loc>http://localhost:1313/categories/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/categories/</loc>
+    <loc>http://localhost:1313/tags/erster-beitrag/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
   </url><url>
-    <loc>https://example.org/tags/</loc>
+    <loc>http://localhost:1313/tags/hugo/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/informartik/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/norddeutschland/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/pers%C3%B6nlich/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/pers%C3%B6nliche-entwicklung/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/posts/introduction/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/studium/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/tags/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/categories/technologie/</loc>
+    <lastmod>2025-06-04T20:41:32+02:00</lastmod>
   </url>
 </urlset>
