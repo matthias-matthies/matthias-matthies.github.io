@@ -3,7 +3,7 @@ date = '2025-06-04T20:41:32+02:00'
 draft = false
 title = 'println!("Hello World!") oder so'
 author = 'Matthias Matthies'
-description = ''
+description = 'Matthias, ein Informatikstudent, startet seinen Blog als Logdatei seiner persönlichen und fachlichen Entwicklung. Ein erster Einblick und die Motivation dahinter, inklusive der ersten Schritte mit Hugo.'
 tags = ["Persönlich", "Blog", "Informartik", "Studium", "Hugo", "Erster Beitrag", "Norddeutschland"]
 categories = ["Technologie", "Persönliche Entwicklung"]
 +++
