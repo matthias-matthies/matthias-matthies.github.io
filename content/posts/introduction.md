@@ -4,7 +4,7 @@ draft = false
 title = 'println!("Hello World!") oder so'
 +++
 ## Moin
-So begrüßen wir uns hier in Norddeutschland zu jeder Tageszeit. Ich nutze fast ausschließlich Moin, weil es mir manchmal schwerfällt, die richtige Begrüßung zu finden.
+So begrüßen wir uns hier in Norddeutschland zu jeder Tageszeit. Ich nutze fast ausschließlich Moin - es reduziert jeglichen mental load, die richtige Begrüßung zu wählen.
 
 Jetzt fragst du dich sicherlich "Moin. Aber was ist das hier?" Nun, ich bin Matthias und freue mich, dich hier begrüßen zu dürfen. Aktuell studiere ich Informatik im 6. Bachelorsemester - actually schreibe ich gerade meine Bachelorarbeit (juhu). Mit diesem Blog möchte ich meine Erfahrungen teilen. Erfahrungen aus dem Informatikstudium. Dinge, die mich bewegen. Dinge, die mich nerven. Projekte, an denen ich arbeite. Projekte, die ich wieder verworfen habe. Im Grunde soll dieser Blog eine Art Logdatei meiner persönlichen und fachlichen Entwicklung sein.
 
