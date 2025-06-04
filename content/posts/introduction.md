@@ -2,6 +2,10 @@
 date = '2025-06-04T20:41:32+02:00'
 draft = false
 title = 'println!("Hello World!") oder so'
+author = 'Matthias Matthies'
+description = ''
+tags = ["Persönlich", "Blog", "Informartik", "Studium", "Hugo", "Erster Beitrag", "Norddeutschland"]
+categories = ["Technologie", "Persönliche Entwicklung"]
 +++
 ## Moin
 So begrüßen wir uns hier in Norddeutschland zu jeder Tageszeit. Ich nutze fast ausschließlich Moin - es reduziert jeglichen mental load, die richtige Begrüßung zu wählen.
